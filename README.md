@@ -223,7 +223,7 @@ This repository includes:
 
 **Vikram Dhakad**
 
-Aspiring MIS Executive | Data Analyst
+Aspiring Data Analyst|MIS Executive
 
 **Technical Skills:** Microsoft Excel, Power BI, Data Cleaning, Data Analysis, KPI Reporting, Dashboard Development, and Business Analytics.
 
